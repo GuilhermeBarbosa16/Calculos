@@ -110,8 +110,3 @@ Total: R$ 6.583,33.
 
 ---
 
-## **Contato e Sugestões**
-Se tiver dúvidas ou sugestões sobre os cálculos, entre em contato através do email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com).
-
-Obrigado por utilizar nosso sistema!
-
